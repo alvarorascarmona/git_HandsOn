@@ -18,6 +18,6 @@ if [[ -n $motif ]]; then
   if [[ $seq =~ $motif ]]; then
     echo "Patata"
   else
-    echo "NOT FOUND"
+    echo "Alvaro"
   fi
 fi
